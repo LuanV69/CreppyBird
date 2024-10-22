@@ -57,12 +57,8 @@ Prepare-se para uma experiência divertida e aterrorizante, com gráficos inspir
 
 <ol>
     <li><b>Instale o Python 3 e as bibliotecas necessárias:</b> `pygame` e `Pillow`:</li>
-    <li><b>Organize os Arquivos:</b><br>
-        - Crie uma pasta `imgs` com todas as imagens do jogo.<br>
-        - Crie uma pasta `sons` com todos os arquivos de som.
-     </li>
     <li><b>Execute o Jogo:</b><br>
-        `python creepybird.py `
+        comando: `python creepybird.py `
      </li>
 </ol>
 
